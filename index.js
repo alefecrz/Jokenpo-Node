@@ -18,14 +18,15 @@ rl.question('Qual sua escolha pedra, papel ou tesoura?\n', resposta => {
     const show = {
         1: 'pedra',
         2: 'papel',
-        3: 'tesoura'
+        3: 'tesoura',
+        undefined: 'um valor diferente'
     }
 
     const escolhaJogador = opcoes[resposta]
     const escolhaComputador = Math.round(Math.random()*2 + 1)
 
    
-    console.log('Você escolheu: ' + show[escolhaJogador] + '\nA maquina escolheu: ' + show[escolhaComputador])
+    console.log('Você escolheu ' + show[escolhaJogador] + '\nA maquina escolheu: ' + show[escolhaComputador])
     if(escolhaJogador === escolhaComputador)
         console.log('Empatou!\n')
     if((escolhaJogador + 1) === escolhaComputador || (escolhaJogador - 2) === escolhaComputador)
