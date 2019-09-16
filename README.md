@@ -17,3 +17,24 @@ https://woliveiras.com.br/curso/do-zero-ao-fullstack-com-nodejs-bancos-de-dados-
 # Observação sobre essa aplicação
 
 1 - O game não está exatamento igual ao do curso, apliquiei uma lógica diferente para identificar quando o Jogador ganha e perde.
+
+# Getting Started
+
+### Prerequisitos
+
+Para rodar este projeto no modo de desenvolvimento, you precisará ter instalado o Nodejs, que pode ser encontrado [aqui](https://nodejs.org/en/).
+
+# Instalando
+
+### Clonando o repositório
+
+```sh
+$ git clone https://gitlab.com/alefecrz/jokenponode.git
+$ cd jokenpoNode
+```
+
+# Rodando
+
+```sh
+$ node index.js
+```
