@@ -16,7 +16,7 @@ https://woliveiras.com.br/curso/do-zero-ao-fullstack-com-nodejs-bancos-de-dados-
 
 # Observação sobre essa aplicação
 
-1 - O game não está exatamento igual ao do curso, apliquiei uma lógica diferente para identificar quando o Jogador ganha e perde.
+1 - O game não está exatamento igual ao do curso, apliquei uma lógica diferente para identificar quando o Jogador ganha e perde.
 
 # Getting Started
 
