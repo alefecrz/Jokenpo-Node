@@ -44,7 +44,7 @@ $ node index.js
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE]() for more information.
+This project is under the MIT license. See the [LICENSE](/LICENSE) for more information.
 
 ---
 
