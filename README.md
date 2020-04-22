@@ -48,11 +48,7 @@ This project is under the MIT license. See the [LICENSE]() for more information.
 
 ---
 
-Made with ♥ by Álefe Cruz 
-
-:wave: [Portifólio](https://www.alefecruz.com/)
-
-:rocket: [LinkedIn](https://www.linkedin.com/in/álefe-cruz-27a64918a/)
+Made with ♥ by Álefe Cruz :wave: [Portifólio](https://www.alefecruz.com/)
 
 [nodejs]: https://nodejs.org/
 [vc]: https://code.visualstudio.com/
